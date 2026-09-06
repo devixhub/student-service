@@ -43,6 +43,13 @@
 		<url>http://13.233.224.52:8081/repository/cicd-repo/</url>
 	</repository>
 </distributionManagement>
+	<distributionManagement>
+<repository>
+<id>student-service</id>
+<name>student-service</name>
+<url>http://13.235.74.5:8081/repository/student-service/</url>
+</repository>
+<distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
