@@ -40,14 +40,14 @@
 	<repository>
 		<id>cicd-repo</id>
 		<name>cicd-repo</name>
-		<url>http://13.233.224.52:8081/repository/cicd-repo/</url>
+		<url>http://13.233.192.1:8081/repository/cicd-repo/</url>
 	</repository>
 </distributionManagement>
 	<distributionManagement>
 <repository>
 <id>student-service</id>
 <name>student-service</name>
-<url>http://13.235.74.5:8081/repository/student-service/</url>
+<url>http://13.233.192.1:8081/repository/student-service/</url>
 </repository>
 <distributionManagement>
 	<build>
