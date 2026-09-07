@@ -52,7 +52,7 @@
         <repository>
             <id>student-service</id>
             <name>student-service</name>
-            <url>http://13.233.192.1:8081/repository/student-service/</url>
+            <url>http://13.233.145.189:8081/repository/student-service/</url>
         </repository>
     </distributionManagement>
 
